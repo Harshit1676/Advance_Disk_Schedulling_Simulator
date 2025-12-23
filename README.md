@@ -148,3 +148,7 @@ GitHub: [@Harshit1676](https://github.com/Harshit1676)
 ---
 
 ### 🚀 *If you like this project, give it a ⭐ on GitHub!*
+## Features
+- FCFS, SSTF, SCAN, C-SCAN algorithms
+- Head movement visualization
+- Seek time and throughput calculation
